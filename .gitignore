@@ -23,9 +23,7 @@
 # Project gen files
 .idea
 .allure/
-.gradle/
 allure-results/
-gradle/
 build/
 bin/
 out/
@@ -35,7 +33,6 @@ target/
 .project
 .settings/org.eclipse.buildship.core.prefs
 .vscode
-/gradlew
 /gradlew.bat
 .todo
 *.properties
